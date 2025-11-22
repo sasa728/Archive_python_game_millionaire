@@ -42,7 +42,7 @@ V příkazovém řádku (terminálu) přejděte do složky projektu a spusťte:
 
 ```bash
 python main.py
-
+```
 ## 📂 Formát dat (otazky.json)
 
 Aplikace načítá otázky ze souboru JSON. Struktura musí vypadat následovně:
@@ -64,7 +64,7 @@ Aplikace načítá otázky ze souboru JSON. Struktura musí vypadat následovně
     "vsechny": ["...", "...", "..."]
   }
 ]
-
+```
 ## 🐛 Známé problémy / Limitace
 
 - Aplikace vyžaduje existenci souboru `dolar.png`, jinak se nespustí.
