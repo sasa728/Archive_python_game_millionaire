@@ -153,30 +153,84 @@
     ]
   },
   {
-    "otazka": "Podle jakého textu na etiketě lahve poznáte pravou hruškovici na první pohled?",
-    "spravna": "Hruškovice nebo Hruškový destilát",
+    "otazka": "V pohádce Jana Wericha „Tři veteráni“ princezně Bosaně naroste: ",
+    "spravna": "dlouhý nos",
     "vsechny": [
-      "Vyrobena z hrušek Williams",
-      "Nijak",
-      "Uzrálá hruška"
+      "sloní kel",
+      "jelení paroh",
+      "kančí tesák"
     ]
   },
   {
-    "otazka": "V čem jsou ovocné destiláty oproti jiným lihovinám jedinečné?",
-    "spravna": "Veškerý alkohol musí pocházet z příslušného ovoce, přidávání lihu je zakázáno, nesmí se barvit ani aromatizovat.",
+    "otazka": "Který chemický prvek má latinský název calcium?",
+    "spravna": "vápník",
     "vsechny": [
-      "Mohou obsahovat přídavek zemědělského lihu do 10 %.",
-      "Mohou obsahovat přírodní aromata.",
-      "Vyrábí je převážně moraváci ve sklepech"
+      "železo",
+      "uhlík",
+      "dusík"
     ]
   },
   {
-    "otazka": "Co je takzvaná andělská daň?",
-    "spravna": "Ztráty z odpařování destilátu v sudech v průběhu jejich zrání",
+    "otazka": "Umělecká přehlídka zvaná kvadrienále se koná jednou za:",
+    "spravna": "čtyři roky",
     "vsechny": [
-      "Spotřební daň z lihu vybíraná Celním úřadem",
-      "Vylitá pálenka",
-      "Daň, kterou platily palírny ve středověku církvi."
+      "dva roky",
+      "tři roky",
+      "pět let"
+    ]
+  },
+  {
+    "otazka": "Orlando Bloom hrál ve filmové trilogii „Pán prstenů“ roli:",
+    "spravna": "Legolase",
+    "vsechny": [
+      "Gandalfa",
+      "Aragorna",
+      "Froda"
+    ]
+  },
+  {
+    "otazka": "Kterému z těchto států nepatřily Jónské ostrovy ležící u západního pobřeží Řecka?",
+    "spravna": "USA",
+    "vsechny": [
+      "Rusku",
+      "Francii",
+      "Řecku"
+    ]
+  },
+  {
+    "otazka": "Baribal je:",
+    "spravna": "druh medvěda",
+    "vsechny": [
+      "míčová hra",
+      "ostrov v Karibiku",
+      "Keltský vůdce"
+    ]
+  },
+  {
+    "otazka": "Ve kterém století vytvořil svá nejvýznamnější díla slavný architekt Le Corbusier?",
+    "spravna": "ve 20. století",
+    "vsechny": [
+      "v 19. století",
+      "v 18. století",
+      "v 17. století"
+    ]
+  },
+  {
+    "otazka": "K zakladatelům etologie patří rakouský vědec?",
+    "spravna": "Konrad Lorenz",
+    "vsechny": [
+      "Herbert Spencer",
+      "Alfred Marshall",
+      "Richard Leakey"
+    ]
+  },
+  {
+    "otazka": "Kolik soch miminek celkem šplhá nahoru a dolů po věži Žižkovského vysílače?",
+    "spravna": "10",
+    "vsechny": [
+      "5",
+      "7",
+      "12"
     ]
   }
 ]
