@@ -1,0 +1,182 @@
+[
+  {
+    "otazka": "Kdo objevil polarografii?",
+    "spravna": "Jaroslav Heyrovský",
+    "vsechny": [
+      "Jaroslav Seifert",
+      "Prokop Holý",
+      "Elon Musk"
+    ]
+  },
+  {
+    "otazka": "Co vynalezli bratranci Veverkové",
+    "spravna": "Ruchadlo",
+    "vsechny": [
+      "Lodní šroub",
+      "Hromosvod",
+      "Záchod"
+    ]
+  },
+  {
+    "otazka": "Kdo vynalezl měkké kontaktní čočky?",
+    "spravna": "Otto Wichterle",
+    "vsechny": [
+      "Jaroslav Heyrovský",
+      "Antonín Holý",
+      "Johnny Depp"
+    ]
+  },
+  {
+    "otazka": "Kdo vynalezl lodní šroub?",
+    "spravna": "Josef Ressel",
+    "vsechny": [
+      "František Křížík",
+      "Prokop Diviš",
+      "Antonín Šesták"
+    ]
+  },
+  {
+    "otazka": "Antivirotika Antonína Holého slouží k léčbě?",
+    "spravna": "HIV/AIDS",
+    "vsechny": [
+      "Malérie",
+      "Tuberkuloza",
+      "Průjem"
+    ]
+  },
+  {
+    "otazka": "Kolik kg ovoce je třeba na vypálení 1l dobré pálenky?",
+    "spravna": "10–20 kg",
+    "vsechny": [
+      "3-7 kg",
+      "22-30 kg",
+      "1-3 kg"
+    ]
+  },
+  {
+    "otazka": "Na jaké řece leží město Londýn?",
+    "spravna": "Temže",
+    "vsechny": [
+      "Dunaj",
+      "Amazonka",
+      "Kongo"
+    ]
+  },
+  {
+    "otazka": "Ve kterém městě můžeme navštívit Zlatou uličku?",
+    "spravna": "Praha",
+    "vsechny": [
+      "Brno",
+      "Olomouc",
+      "Karlovy Vary"
+    ]
+  },
+  {
+    "otazka": "Která z rostlin roste nejrychleji?",
+    "spravna": "Bambus",
+    "vsechny": [
+      "Mary-jane",
+      "Orchidej",
+      "Růže"
+    ]
+  },
+  {
+    "otazka": "Co symbolizují hvězdy na vlajce EU?",
+    "spravna": "Státy EU",
+    "vsechny": [
+      "Přátelství",
+      "Svobodu",
+      "Že v EU jsou jen hvězdy"
+    ]
+  },
+  {
+    "otazka": "Kdo to byl Diskobolos?",
+    "spravna": "Atlet",
+    "vsechny": [
+      "Válečník",
+      "Spisovatel",
+      "Vědec"
+    ]
+  },
+  {
+    "otazka": "Hlavním městem USA je...",
+    "spravna": "Washinghton, D. C.",
+    "vsechny": [
+      "Los Angeles",
+      "New York",
+      "Californie"
+    ]
+  },
+  {
+    "otazka": "Obraz Slunečnice namaloval...",
+    "spravna": "Vincent Van Gogh",
+    "vsechny": [
+      "Pablo Picasso",
+      "Alfons Mucha",
+      "Johnny Depp"
+    ]
+  },
+  {
+    "otazka": "Co hlídá teplotu v ledničce?",
+    "spravna": "Termostat",
+    "vsechny": [
+      "Terminál",
+      "Terminátor",
+      "Termoska"
+    ]
+  },
+  {
+    "otazka": "Kdo natočil film E.T. mimozemšťan?",
+    "spravna": "Steven Spielberg",
+    "vsechny": [
+      "Peter Jackson",
+      "Miloš Forman",
+      "Quentin Tarantino"
+    ]
+  },
+  {
+    "otazka": "Který strom dokáže nashromáždit 1000l vody?",
+    "spravna": "Baobab",
+    "vsechny": [
+      "Kokosová palma",
+      "Jedle",
+      "Modřan"
+    ]
+  },
+  {
+    "otazka": "Kolik má noha židlí?",
+    "spravna": "0",
+    "vsechny": [
+      "4",
+      "2",
+      "1"
+    ]
+  },
+  {
+    "otazka": "Podle jakého textu na etiketě lahve poznáte pravou hruškovici na první pohled?",
+    "spravna": "Hruškovice nebo Hruškový destilát",
+    "vsechny": [
+      "Vyrobena z hrušek Williams",
+      "Nijak",
+      "Uzrálá hruška"
+    ]
+  },
+  {
+    "otazka": "V čem jsou ovocné destiláty oproti jiným lihovinám jedinečné?",
+    "spravna": "Veškerý alkohol musí pocházet z příslušného ovoce, přidávání lihu je zakázáno, nesmí se barvit ani aromatizovat.",
+    "vsechny": [
+      "Mohou obsahovat přídavek zemědělského lihu do 10 %.",
+      "Mohou obsahovat přírodní aromata.",
+      "Vyrábí je převážně moraváci ve sklepech"
+    ]
+  },
+  {
+    "otazka": "Co je takzvaná andělská daň?",
+    "spravna": "Ztráty z odpařování destilátu v sudech v průběhu jejich zrání",
+    "vsechny": [
+      "Spotřební daň z lihu vybíraná Celním úřadem",
+      "Vylitá pálenka",
+      "Daň, kterou platily palírny ve středověku církvi."
+    ]
+  }
+]
